@@ -16,8 +16,9 @@ cd main
 ```
 Run the license_text_recognize.py script.
 
-`python license_text_recognize.py`
-
+```
+python license_text_recognize.py
+```
 When prompted, enter the path to the image you want to process.
 
 ## Project Development
