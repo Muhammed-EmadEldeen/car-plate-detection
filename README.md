@@ -11,7 +11,7 @@ To use this project, follow these simple steps:
 
 ```
 git clone https://github.com/Muhammed-EmadEldeen/car-plate-detection.git;
-cd car-license-plate-detection;
+cd car-plate-detection;
 cd main 
 ```
 Run the license_text_recognize.py script.
