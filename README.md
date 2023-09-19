@@ -9,10 +9,11 @@ To use this project, follow these simple steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 
-`git clone <repository_url>
+```
+git clone <repository_url>
 cd car-license-plate-detection
-cd main`
-
+cd main 
+```
 Run the license_text_recognize.py script.
 
 python license_text_recognize.py
