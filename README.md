@@ -10,7 +10,7 @@ To use this project, follow these simple steps:
 2. Navigate to the project directory.
 
 ```
-git clone <repository_url>;
+git clone https://github.com/Muhammed-EmadEldeen/car-plate-detection.git;
 cd car-license-plate-detection;
 cd main 
 ```
